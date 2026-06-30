@@ -1,6 +1,6 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------------------------------------------------------------------
-Proyecto compuesto por 10 microservicios, desarrollado con tecnologías backend como Spring Framework y Netflix Eureka, enfocado en una arquitectura distribuida, escalable y modular para la gestión eficiente de servicios y comunicación entre componentes.
+P.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 Para iniciar el proyecto, primero se debe abrir el código fuente en el IDE de preferencia. Luego, ejecutar la clase EurekaServerApplication.java para iniciar el servidor Eureka encargado del registro y descubrimiento de microservicios.
