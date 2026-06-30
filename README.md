@@ -12,7 +12,9 @@ Finalmente, abrir Postman para realizar las pruebas de endpoints y verificar el 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 link video youtube:  https://youtu.be/he0HfAgcxcw
+
 link drive : https://drive.google.com/file/d/1RXsNUEk_9kGXxGeJG2vcKTzwo1Hzx3aA/view?usp=sharing
+
 link github:  https://github.com/dymisetich-commits/FullStackDuoc  
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 Integrantes:
