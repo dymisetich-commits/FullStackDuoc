@@ -11,9 +11,9 @@ Una vez creada la base de datos, se debe iniciar cada microservicio ejecutando s
 Finalmente, abrir Postman para realizar las pruebas de endpoints y verificar el correcto funcionamiento de la arquitectura de microservicios.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
-Video:
-https://www.youtube.com/watch?v=ttYjcYZqk-I
-
+link video youtube:  https://youtu.be/he0HfAgcxcw
+link drive : https://drive.google.com/file/d/1RXsNUEk_9kGXxGeJG2vcKTzwo1Hzx3aA/view?usp=sharing
+link github:  https://github.com/dymisetich-commits/FullStackDuoc  
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 Integrantes:
 - Patricio Muñoz Huinca
