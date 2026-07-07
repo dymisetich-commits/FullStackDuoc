@@ -28,7 +28,7 @@ Sistema de gestión de pedidos de comida desarrollado con arquitectura de micros
 | Componente                      | Enlace                           |
 | ------------------------------- | -------------------------------- |
 | 📦 Versión Nativa (.jar + .bat) | **https://drive.google.com/file/d/1RXsNUEk_9kGXxGeJG2vcKTzwo1Hzx3aA/view?usp=sharing** |
-| 🐳 Versión Docker               | **Pegar enlace de Google Drive** |
+| 🐳 Versión Docker               | https://drive.google.com/file/d/1fnB7g5vBUDV181m5z33nD77XzZ2JqQR9/view?usp=sharing |
 | 🎥 Video de defensa             | (https://youtu.be/he0HfAgcxcw)|
 
 ---
